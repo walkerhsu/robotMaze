@@ -1,5 +1,8 @@
 # Robot Maze - 3D Pathfinding Visualization
 
+<img width="793" height="473" alt="image" src="https://github.com/user-attachments/assets/1df4f25d-7511-4d16-8ac9-e65e6790667e" />
+
+
 A 3D interactive robot maze simulation built with Three.js where an animated robot autonomously navigates through a maze to collect stars using pathfinding algorithms.
 
 ## 🎮 Demo
